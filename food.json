@@ -1,5 +1,4 @@
-{
-    "Employee": [
+{"Employee":[
         { "employee_id": 201101, "employee_name": "Zara", "employee_phnno": 7980876654, "employee_address": "bangalore", "employee_pincode": 25001 },
         { "employee_id": 201101, "employee_name": "Zoya", "employee_phnno": 45678900987, "employee_address": "Kerala", "employee_pincode": 25002 },
         { "employee_id": 201101, "employee_name": "Shikha", "employee_phnno": 23456709987, "employee_address": "Lucknow", "employee_pincode": 25034 },
